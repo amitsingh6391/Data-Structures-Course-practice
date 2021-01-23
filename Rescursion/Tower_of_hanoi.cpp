@@ -15,6 +15,9 @@ void TOH(int n , int A, int B, int C){
 
 
 int main(){
+    int r = 2/10;
     TOH(5,1,2,3);
+    cout<<r;
+    
     return 0;
 }
