@@ -9,4 +9,6 @@ push in this repo.
 ### Recursive function
 ### Salesman problem
 ### Heap Tree
+### 2d,3d array address calculation
+
 ## I hope this would  be helpfull for someone 
