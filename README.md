@@ -10,5 +10,8 @@ push in this repo.
 ### Salesman problem
 ### Heap Tree
 ### 2d,3d array address calculation
+### Insert ekemnts in array 
+### Delete elemnts from array
+### Sorting of elements with diffrent approach
 
 ## I hope this would  be helpfull for someone 
