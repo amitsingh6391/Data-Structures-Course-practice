@@ -5,7 +5,7 @@ using namespace std;
 void fun(int *a,int n){
 
 // instead of square bracet we used *
-
+//becuse bpth are same
 
     cout<<sizeof(a)/sizeof(int)<<endl;
 
