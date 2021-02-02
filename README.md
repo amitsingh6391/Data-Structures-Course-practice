@@ -13,5 +13,8 @@ push in this repo.
 ### Insert ekemnts in array 
 ### Delete elemnts from array
 ### Sorting of elements with diffrent approach
+### operation on set
+### reversing and shift rotation of array
+### Binary search
 
 ## I hope this would  be helpfull for someone 
