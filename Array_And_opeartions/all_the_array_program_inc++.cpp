@@ -1,3 +1,7 @@
+
+
+// here we dfine all the programs we are done in c++ langauge
+
 #include <iostream>
 using namespace std;
 class Array
