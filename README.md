@@ -3,6 +3,7 @@ I m starting learning data structures and algorithm in depth so whatever i learn
 push in this repo.
 
 ### union
+### intersection
 ### Tailor Serise
 ### Find Cnr and Pnr
 ### Recursive function
