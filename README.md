@@ -8,6 +8,7 @@ push in this repo.
 ### Find Cnr and Pnr
 ### Recursive function
 ### Salesman problem
+### Binary 🌲
 ### Heap Tree
 ### 2d,3d array address calculation
 ### Insert ekemnts in array 
