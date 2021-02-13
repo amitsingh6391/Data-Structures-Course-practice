@@ -10,7 +10,7 @@ push in this repo.
 ### Salesman problem
 ### Binary 🌲
 ### Heap Tree
-### 2d,3d array address calculation
+### 2d,3d Array address calculation
 ### Insert ekemnts in array 
 ### Delete elemnts from array
 ### Sorting of elements with diffrent approach
