@@ -1,7 +1,4 @@
-## Data-Structures-Course-practice
-I'm Starting learning data structures and algorithm in depth so whatever i learn i will 
-push in this repo.
-
+## Data-Structures-Course-practIce
 ### Union
 ### intersection
 ### Tailor Serise
